@@ -1,7 +1,7 @@
 
 * Plugin Name: Trả Góp
 * Plugin URI: https://phongbv378846040.wordpress.com/
-* Description: Trả góp qua thẻ hoặc công ty tài chính.
+* Description: Trả góp qua thẻ hoặc công ty tài chính, gửi thông tin vào admin và email quản trị.
 * Version: 0.1
 * Author: Bùi Văn Phong
 * Author URI: https://phongbv378846040.wordpress.com/
